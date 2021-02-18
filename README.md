@@ -1,5 +1,11 @@
 # NASA
-**This is RTL implement of multi-core npu** 
+**This is RTL implement of single-core npu**
+## SingleCore NPU Architecture
+
+<img src="/img/NPU_Architecture.jpg" height="50%" width="50%">
+
+Then we implement our paper——NASA based on NPU( Not finished, need to improve).
+ 
 ## Version-1
 The Architecture of the first version as below:
 
